@@ -1,0 +1,10 @@
+001;bread;1.79
+002;milk;2.99
+003;butter;4.26
+004;cheese;19.99
+005;eggs;4.99
+006;ketchup;5.99
+007;yoghourt;1.59
+008;water;2.00
+009;juice;3.89
+010;tee;13.39
